@@ -1,0 +1,481 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "userId": 4,
+      "user": {
+        "username": "emma_white",
+        "name": "Emma White",
+        "profilePic": "/assets/profile (1).jpg"
+      },
+      "imageUrl": "/assets/postpic (1).jpg",
+      "caption": "Sunday chill vibes 🎧",
+      "timestamp": "2025-03-28T08:45:50.732859Z",
+      "likes": [
+        2,
+        3
+      ],
+      "comments": [
+        {
+          "id": 1,
+          "userId": 1,
+          "text": "Totally agree!",
+          "timestamp": "2025-03-28T10:45:50.732859Z",
+          "user": {
+            "username": "john_doe",
+            "name": "John Doe",
+            "profilePic": ""
+          }
+        },
+        {
+          "id": 2,
+          "userId": 2,
+          "text": "Well said 💯",
+          "timestamp": "2025-03-28T09:45:50.732859Z",
+          "user": {
+            "username": "jane_smith",
+            "name": "Jane Smith",
+            "profilePic": "/assets/profile (2).jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "userId": 3,
+      "user": {
+        "username": "mike_brown",
+        "name": "Mike Brown",
+        "profilePic": "/assets/profile (2).jpg"
+      },
+      "imageUrl": "/assets/postpic (2).jpg",
+      "caption": "Workout done! 💪",
+      "timestamp": "2025-04-01T08:45:50.732928Z",
+      "likes": [
+        2
+      ],
+      "comments": [
+        {
+          "id": 1,
+          "userId": 1,
+          "text": "Nice click!",
+          "timestamp": "2025-04-01T10:45:50.732928Z",
+          "user": {
+            "username": "john_doe",
+            "name": "John Doe",
+            "profilePic": "https://randomuser.me/api/portraits/men/1.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "userId": 2,
+      "user": {
+        "username": "jane_smith",
+        "name": "Jane Smith",
+        "profilePic": "/assets/profile (3).jpg"
+      },
+      "imageUrl": "/assets/postpic (3).jpg",
+      "caption": "Sunday chill vibes 🎧",
+      "timestamp": "2025-04-01T08:45:50.732954Z",
+      "likes": [
+        3,
+        4
+      ],
+      "comments": [
+        {
+          "id": 1,
+          "userId": 1,
+          "text": "Keep it up!",
+          "timestamp": "2025-04-01T09:45:50.732954Z",
+          "user": {
+            "username": "john_doe",
+            "name": "John Doe",
+            "profilePic": "https://randomuser.me/api/portraits/men/1.jpg"
+          }
+        },
+        {
+          "id": 2,
+          "userId": 4,
+          "text": "So cool!",
+          "timestamp": "2025-04-01T09:45:50.732954Z",
+          "user": {
+            "username": "emma_white",
+            "name": "Emma White",
+            "profilePic": "https://randomuser.me/api/portraits/women/4.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "userId": 3,
+      "user": {
+        "username": "mike_brown",
+        "name": "Mike Brown",
+        "profilePic": "/assets/profile (4).jpg"
+      },
+      "imageUrl": "/assets/postpic (4).jpg",
+      "caption": "Workout done! 💪",
+      "timestamp": "2025-03-26T08:45:50.732984Z",
+      "likes": [
+        4
+      ],
+      "comments": [
+        {
+          "id": 1,
+          "userId": 4,
+          "text": "Amazing shot!",
+          "timestamp": "2025-03-26T10:45:50.732984Z",
+          "user": {
+            "username": "emma_white",
+            "name": "Emma White",
+            "profilePic": "https://randomuser.me/api/portraits/women/4.jpg"
+          }
+        },
+        {
+          "id": 2,
+          "userId": 2,
+          "text": "Nice click!",
+          "timestamp": "2025-03-26T09:45:50.732984Z",
+          "user": {
+            "username": "jane_smith",
+            "name": "Jane Smith",
+            "profilePic": "https://randomuser.me/api/portraits/women/2.jpg"
+          }
+        },
+        {
+          "id": 3,
+          "userId": 2,
+          "text": "Keep it up!",
+          "timestamp": "2025-03-26T10:45:50.732984Z",
+          "user": {
+            "username": "jane_smith",
+            "name": "Jane Smith",
+            "profilePic": "https://randomuser.me/api/portraits/women/2.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "userId": 4,
+      "user": {
+        "username": "emma_white",
+        "name": "Emma White",
+        "profilePic": "/assets/profile (5).jpg"
+      },
+      "imageUrl": "/assets/postpic (5).jpg",
+      "caption": "Chasing sunsets 🌇",
+      "timestamp": "2025-03-27T08:45:50.733017Z",
+      "likes": [
+        3
+      ],
+      "comments": [
+        {
+          "id": 1,
+          "userId": 3,
+          "text": "Keep it up!",
+          "timestamp": "2025-03-27T09:45:50.733017Z",
+          "user": {
+            "username": "mike_brown",
+            "name": "Mike Brown",
+            "profilePic": "https://randomuser.me/api/portraits/men/3.jpg"
+          }
+        },
+        {
+          "id": 2,
+          "userId": 2,
+          "text": "Keep it up!",
+          "timestamp": "2025-03-27T12:45:50.733017Z",
+          "user": {
+            "username": "jane_smith",
+            "name": "Jane Smith",
+            "profilePic": "https://randomuser.me/api/portraits/women/2.jpg"
+          }
+        },
+        {
+          "id": 3,
+          "userId": 3,
+          "text": "Totally agree!",
+          "timestamp": "2025-03-27T11:45:50.733017Z",
+          "user": {
+            "username": "mike_brown",
+            "name": "Mike Brown",
+            "profilePic": "https://randomuser.me/api/portraits/men/3.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "userId": 3,
+      "user": {
+        "username": "mike_brown",
+        "name": "Mike Brown",
+        "profilePic": "/assets/profile (6).jpg"
+      },
+      "imageUrl": "/assets/postpic (6).jpg",
+      "caption": "Workout done! 💪",
+      "timestamp": "2025-03-28T08:45:50.733043Z",
+      "likes": [
+        4,
+        1,
+        2
+      ],
+      "comments": [
+        {
+          "id": 1,
+          "userId": 2,
+          "text": "Love this 🔥",
+          "timestamp": "2025-03-28T12:45:50.733043Z",
+          "user": {
+            "username": "jane_smith",
+            "name": "Jane Smith",
+            "profilePic": "https://randomuser.me/api/portraits/women/2.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "userId": 4,
+      "user": {
+        "username": "emma_white",
+        "name": "Emma White",
+        "profilePic": "/assets/profile (7).jpg"
+      },
+      "imageUrl": "/assets/postpic (7).jpg",
+      "caption": "Chasing sunsets 🌇",
+      "timestamp": "2025-03-30T08:45:50.733060Z",
+      "likes": [
+        1
+      ],
+      "comments": [
+        {
+          "id": 1,
+          "userId": 1,
+          "text": "Totally agree!",
+          "timestamp": "2025-03-30T13:45:50.733060Z",
+          "user": {
+            "username": "john_doe",
+            "name": "John Doe",
+            "profilePic": "https://randomuser.me/api/portraits/men/1.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "userId": 4,
+      "user": {
+        "username": "emma_white",
+        "name": "Emma White",
+        "profilePic": "/assets/profile (8).jpg"
+      },
+      "imageUrl": "/assets/postpic (8).jpg",
+      "caption": "Coffee time ☕",
+      "timestamp": "2025-04-05T08:45:50.733075Z",
+      "likes": [
+        3,
+        1,
+        2
+      ],
+      "comments": [
+        {
+          "id": 1,
+          "userId": 2,
+          "text": "Awesome!",
+          "timestamp": "2025-04-05T13:45:50.733075Z",
+          "user": {
+            "username": "jane_smith",
+            "name": "Jane Smith",
+            "profilePic": "https://randomuser.me/api/portraits/women/2.jpg"
+          }
+        },
+        {
+          "id": 2,
+          "userId": 1,
+          "text": "Awesome!",
+          "timestamp": "2025-04-05T09:45:50.733075Z",
+          "user": {
+            "username": "john_doe",
+            "name": "John Doe",
+            "profilePic": "https://randomuser.me/api/portraits/men/1.jpg"
+          }
+        },
+        {
+          "id": 3,
+          "userId": 3,
+          "text": "Love this 🔥",
+          "timestamp": "2025-04-05T09:45:50.733075Z",
+          "user": {
+            "username": "mike_brown",
+            "name": "Mike Brown",
+            "profilePic": "https://randomuser.me/api/portraits/men/3.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "userId": 1,
+      "user": {
+        "username": "john_doe",
+        "name": "John Doe",
+        "profilePic": "/assets/profile (9).jpg"
+      },
+      "imageUrl": "/assets/postpic (9).jpg",
+      "caption": "Coffee time ☕",
+      "timestamp": "2025-04-03T08:45:50.733100Z",
+      "likes": [
+        4,
+        2,
+        3
+      ],
+      "comments": [
+        {
+          "id": 1,
+          "userId": 2,
+          "text": "So cool!",
+          "timestamp": "2025-04-03T11:45:50.733100Z",
+          "user": {
+            "username": "jane_smith",
+            "name": "Jane Smith",
+            "profilePic": "https://randomuser.me/api/portraits/women/2.jpg"
+          }
+        },
+        {
+          "id": 2,
+          "userId": 2,
+          "text": "Love this 🔥",
+          "timestamp": "2025-04-03T11:45:50.733100Z",
+          "user": {
+            "username": "jane_smith",
+            "name": "Jane Smith",
+            "profilePic": "https://randomuser.me/api/portraits/women/2.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "userId": 1,
+      "user": {
+        "username": "john_doe",
+        "name": "John Doe",
+        "profilePic": "/assets/profile (10).jpg"
+      },
+      "imageUrl": "/assets/postpic (10).jpg",
+      "caption": "Exploring the wild 🌿",
+      "timestamp": "2025-04-02T08:45:50.733120Z",
+      "likes": [
+        2,
+        4
+      ],
+      "comments": [
+        {
+          "id": 1,
+          "userId": 2,
+          "text": "Love this 🔥",
+          "timestamp": "2025-04-02T11:45:50.733120Z",
+          "user": {
+            "username": "jane_smith",
+            "name": "Jane Smith",
+            "profilePic": "https://randomuser.me/api/portraits/women/2.jpg"
+          }
+        },
+        {
+          "id": 2,
+          "userId": 2,
+          "text": "Keep it up!",
+          "timestamp": "2025-04-02T12:45:50.733120Z",
+          "user": {
+            "username": "jane_smith",
+            "name": "Jane Smith",
+            "profilePic": "https://randomuser.me/api/portraits/women/2.jpg"
+          }
+        },
+        {
+          "id": 3,
+          "userId": 3,
+          "text": "Nice click!",
+          "timestamp": "2025-04-02T11:45:50.733120Z",
+          "user": {
+            "username": "mike_brown",
+            "name": "Mike Brown",
+            "profilePic": "https://randomuser.me/api/portraits/men/3.jpg"
+          }
+        }
+      ]
+    }
+    
+      
+    
+  ],
+  "profile": {
+    "id": 1,
+    "name": "Emma White",
+    "profilePic": "/assets/profile (1).jpg"
+  },
+  "suggestions": [
+    {
+      "id": "1",
+      "name": "Jane Smith",
+      "profilePic": "/assets/profile (3).jpg"
+    },
+    {
+      "id": "2",
+      "name": "Ashvini",
+      "profilePic": "/assets/profile (7).jpg"
+    },
+    {
+      "id": "3",
+      "name": "Pavi",
+      "profilePic": "/assets/profile (10).jpg"
+    },
+    {
+      "id": "4",
+      "name": "Drago",
+      "profilePic": "/assets/profile (4).jpg"
+    },
+    {
+      "id": "5",
+      "name": "Anjali",
+      "profilePic": "/assets/profile (6).jpg"
+    }
+  ],
+  "reels":[
+    {
+      "id" :1,
+      "video": "/videos/reelsVideo (5).mp4",
+      "username":"thirumalaiselvam",
+       "comment":"Silks smitha "
+    },
+    {
+      "id" :2,
+      "video": "/videos/reelsVideo (1).mp4",
+      "username":"Bharathi",
+       "comment":"tamil Song Melody "
+    },
+    {
+      "id" :3,
+      "video": "/videos/reelsVideo (2).mp4",
+      "username":"Raja",
+       "comment":"Love "
+    },
+    {
+      "id" :4,
+      "video": "/videos/reelsVideo (3).mp4",
+      "username":"Kumar",
+       "comment":"Amma "
+    },
+    {
+      "id" :5,
+      "video": "/videos/reelsVideo (4).mp4",
+      "username":"Vasigaran",
+       "comment":"Sad "
+    }
+  ]
+}
